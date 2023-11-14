@@ -1,6 +1,6 @@
-## Getting Started
+## Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A JavaFX Weather API is a software component that allows you to integrate weather data into your JavaFX applications. It enables your JavaFX application to make requests to a weather data provider, such as OpenWeatherMap, and retrieve weather information, which can then be displayed to the user in a graphical user interface.
 
 ## Folder Structure
 
